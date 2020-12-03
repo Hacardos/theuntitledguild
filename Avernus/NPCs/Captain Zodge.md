@@ -1,2 +1,2 @@
-Kapten i [[Flaming Fist]]
+Kapten i [[Flaming Fist]]  
 Tvångsrekryterade [[vi]]

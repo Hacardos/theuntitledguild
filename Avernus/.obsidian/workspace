@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38823aac475515ef",
+        "id": "01cc5f85a664fb23",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/Session 13.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NPCs/Sylvira.md",
-    "PCs/vi.md",
     "Sessions/Session 13.md",
     "Sessions/Session 12.md",
     "Sessions/Session 11.md",
     "Sessions/Session 10.md",
     "Sessions/Session 9.md",
     "Sessions/Session 8.md",
-    "NPCs/Zariel.md",
-    "NPCs/Zeltren.md"
+    "Sessions/Session 7.md",
+    "Sessions/Session 6.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 4.md"
   ]
 }

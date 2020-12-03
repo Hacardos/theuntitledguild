@@ -1,2 +1,2 @@
-Handelsstad nära [[Baldurs Gate]]
+Handelsstad nära [[Baldurs Gate]]  
 Numera fast i [[Avernus]]

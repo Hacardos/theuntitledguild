@@ -1,5 +1,5 @@
-[[vi]] stal en spännande flaska, både the Guild och Little Calimshan's Right Pashas ville ha den.
-Alla vill ha den nu och vi blir mördade om [[vi]] säljer den till "nån annan". 
+[[vi]] stal en spännande flaska, både the Guild och Little Calimshan's Right Pashas ville ha den.  
+Alla vill ha den nu och vi blir mördade om [[vi]] säljer den till "nån annan".   
 
 Rekryterade av [[Captain Zodge]] för att stoppa the Dead Three för en 200gp var. [[vi]] fick också brickor som visar att vi arbetar i [[Captain Zodge]]s tjänst. 
 

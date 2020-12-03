@@ -1,3 +1,3 @@
-Half Orc Fighter
-Battle Master
-Criminal
+Half Orc Fighter  
+Battle Master  
+Criminal  

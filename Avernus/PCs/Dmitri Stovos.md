@@ -1,6 +1,6 @@
-Changeling Bard, Eloquence
+Changeling Bard, Eloquence  
 
-Alias: 
-Barrakas - Tiefling
-Jim - ?
-Posh woman
+Alias:   
+Barrakas - Tiefling  
+Jim - ?  
+Posh woman  
