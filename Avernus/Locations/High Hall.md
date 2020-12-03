@@ -1,0 +1,1 @@
+The High Hall is a grand alabaster castle dedicated to Torm, the god of courage and self-sacrifice. It houses many of [[Elturel]]s religious and political leaders — or at least it did when the city was in the mortal realm.

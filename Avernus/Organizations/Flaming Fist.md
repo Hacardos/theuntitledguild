@@ -1,0 +1,1 @@
+Vaktstyrka i [[Baldurs Gate]]

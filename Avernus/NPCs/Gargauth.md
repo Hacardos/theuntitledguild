@@ -1,0 +1,1 @@
+Demon som är inspärrad i skölden som [[Otto Flissing]] har. 

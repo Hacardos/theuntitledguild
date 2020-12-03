@@ -1,0 +1,3 @@
+[[vi]] pratade med [[Vanthampur, Amrik]] som kunde hjälpa oss att hitta en person som kunde få en audiens med hans mor, om vi knäckte knäna på en annan utlånare och bränner ner hans hus med familj i. 
+
+[[vi]] bestämde oss för att kidnappa [[Vanthampur, Amrik]] istället. Vi förberedde ett bakhåll i en gränd. Vi vann fighten och en kvinna [[Reya]] (?) ville fånga Amrik, hon letade [[Thavius Kreeg]] (?) som kanske är gäst hos Vanthampur-familjen. 

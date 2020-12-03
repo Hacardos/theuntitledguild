@@ -1,0 +1,1 @@
+Druid på besök i [[Elturel]], gömmer sig i [[High Hall]]

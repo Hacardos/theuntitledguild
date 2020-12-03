@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "9ecb3504e4c40d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "38823aac475515ef",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09f85fb600d94867",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4e91adc0384c507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2403d5c4f0ea2409",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63b0961bc49b8f5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cea5d171ef0841d",
+    "type": "split",
+    "children": [
+      {
+        "id": "194c1ac1b9e64f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "890b65572d8aeffa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "31785ce34c8b794a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "NPCs/Sylvira.md",
+    "PCs/vi.md",
+    "Sessions/Session 13.md",
+    "Sessions/Session 12.md",
+    "Sessions/Session 11.md",
+    "Sessions/Session 10.md",
+    "Sessions/Session 9.md",
+    "Sessions/Session 8.md",
+    "NPCs/Zariel.md",
+    "NPCs/Zeltren.md"
+  ]
+}
