@@ -14,7 +14,7 @@ Satiir Thione-Hhune hittade [[vi]] i den andra cellen. Hon blev kidnappad av Van
 [[Falaster Fisk]] visade oss vägen till ett hemligt rum där [[Vanthampur, Thalamra]] höll på med någon sorts ritual. [[vi]] stoppade och dödade henne, hittade en nyckel (till skattkammaren). I skattkammaren var [[Thavius Kreeg]].
 
 Skattkammare: 
-- Magisk Sköld *Otto
+- [[Magisk sköld]] *Otto
 - 30 electrum ingots (10gp each) tot: 12lbs *Billy
 - 300 gp
 - 2 pieces of a broken ceremonial dagger (one whole dagger) *Jim

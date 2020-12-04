@@ -13,4 +13,4 @@ Morgonen efter går [[vi]] till [[Sylvira]], en Tiefling, [[Ithillan]] flörtar.
 [[Traxigor]] ber oss hjälpa honom att hitta sin tuning fork, som [[Klesi Mintdwadle]] hittar. 
 [[Traxigor]] vill att [[Lulu]] ska följa med oss till helvetet. [[Lulu]] pratar endast celestial.
 
-[[Traxigor]] planeshiftar oss till [[Avernus]]. Ovanför [[Elturel]] är en svart orb som skjuter blixtar på staden. 
+[[Traxigor]] planeshiftar oss till [[Avernus]]. Ovanför [[Elturel]] är [[en svart orb]] som skjuter blixtar på staden. 

@@ -1,6 +1,6 @@
 [[vi]] hittar en död människa nära altaret I fortet. Men han var inte död, och heter [[Zeltren]]. Han berättar om demonerna i fortet och vill ha hjälp att ta tillbaka kontrollen över det.  
 
-Altaret i fortet är magiskt och helar den som rör vid det, om man klarar en charisma check. 
+[[Altaret i fortet]] är magiskt och helar den som rör vid det, om man klarar en charisma check. 
 
 Sedan hittar [[vi]] chefdemonen bakom ett skynke och anfaller utan eftertanke. [[vi]] dödar den och hans kultister, han tappar ett svärd som börjar brinna när man lyfter det. 
 
