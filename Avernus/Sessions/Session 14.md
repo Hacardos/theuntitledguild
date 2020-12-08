@@ -1,4 +1,4 @@
-[[Vi]] tittade runt i [[High Hall]]]] och upptäckte att övre delen av [[High Hall]] hade rasat. 
+[[Vi]] tittade runt i [[High Hall]] och upptäckte att övre delen av [[High Hall]] hade rasat. 
 
 [[Vi]] gick upp för spiraltrapporna vid ingången, [[vi]] kom till en orgelbalkong. 
 
