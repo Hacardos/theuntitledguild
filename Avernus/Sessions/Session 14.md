@@ -16,6 +16,6 @@ Hittade 9st red ametister och en potion of greater healing.
 
 [[Vi]] hittade låsta sarkofager, och provade knacka på dem för att se om någon var fast inuti. En knackade tillbaka. [[Otto Flissing]] dyrkade upp den och ut föll en mumie. [[Vi]] spöade skiten ur den. 
 
-[[Vi]] hittade bracers och en gul sten.  [[Klesi Mintdwadle]] identifierade dem, Braces of Defense och Elemental Stone. 
+[[Vi]] hittade bracers och en gul sten.  [[Klesi Mintdwadle]] identifierade dem, Braces of Defense och Elemental Gem. 
 
 På vägen upp så lämnade [[Otto Flissing]] tillbaka greatswordet till kroppen. 
