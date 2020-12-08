@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 13.md",
+            "file": "Avernus/Sessions/Session 14.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Avernus/Sessions/Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Avernus/Sessions/Session 13.md",
+    "Avernus/Sessions/Session 10.md",
+    "Avernus/PCs/vi.md",
     "Sessions/Session 13.md",
     "PCs/Banira Kiru-Mu.md",
     "PCs/Klesi Mintdwadle.md",
     "PCs/Otto Flissing.md",
     "PCs/Dmitri Stovos.md",
-    "NPCs/Untitled.md",
-    "Sessions/Session 11.md",
-    "PCs/Ithillan.md",
-    "PCs/Billy Hill.md",
-    "NPCs/Vendetta Kress.md"
+    "NPCs/Untitled.md"
   ]
 }
