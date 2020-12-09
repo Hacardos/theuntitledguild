@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7276abf0e1af38",
+        "id": "dbcb9aa0f0a3c291",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Aeradas/Characters/Template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aeradas/Characters/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aeradas/Characters/Template.md",
+    "Aeradas/Characters/Untitled.md",
     "Avernus/Sessions/Session 14.md",
     "Avernus/PCs/vi.md",
     "Avernus/Locations/Grand Cemetary.md",
@@ -99,8 +105,6 @@
     "kyrkogården.md",
     "Avernus/NPCs/Grand Duke Ravenguard.md",
     "Grand Duke Ravenguard.md",
-    "Avernus/Locations/Katakomberna.md",
-    "Avernus/Locations/High Hall.md",
-    "Katakomberna.md"
+    "Avernus/Locations/Katakomberna.md"
   ]
 }
